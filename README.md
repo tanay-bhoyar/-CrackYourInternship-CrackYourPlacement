@@ -13,7 +13,7 @@ This repository serves as a record of my journey through the challenge. Here, yo
 
 ## Progress
 
-As of now, I have solved 23 DSA problems and achieved Rank 1 in the challenge. I will continue to update this repository with new solutions as I progress through the 45 days.
+I will continue to update this repository with new solutions as I progress through the 45 days.
 
 ## Connect with Me
 
